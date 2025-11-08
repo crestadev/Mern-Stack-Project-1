@@ -1,4 +1,4 @@
-/*let users = []; in-memory user storage(temporary)*/
+/*let users = []; in-memory user storage(temporary) */
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
 import User from "../models/user.model.js";
